@@ -33,7 +33,7 @@ To run the Instagram Clone app locally, follow these steps:
  (iv) Run the app:
     flutter run
 
-Usage
+## Usage
 Once the app is up and running, you can:
 
 Create a new account or log in with your existing credentials.
